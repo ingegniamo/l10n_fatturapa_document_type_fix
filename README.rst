@@ -1,24 +1,9 @@
-Title
-===============================
-Description
+fix per document type
 
-Configuration
-=============
-
-Usage
-=====
-Descriprion usage
-
-
-Credits
-=======
-
-Authors
-~~~~~~~
 
 * STeSI s.r.l
 
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.eu>
+* Michele <dicroce.m@stesi.eu>
