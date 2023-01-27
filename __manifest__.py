@@ -15,7 +15,7 @@
     'website': "http://www.stesi.eu",
 
     # any module necessary for this one to work correctly
-    'depends': ["l10n_it_fatturapaout"],
+    'depends': ["l10n_it_fatturapa"],
     
     # always loaded
     'data': [],
