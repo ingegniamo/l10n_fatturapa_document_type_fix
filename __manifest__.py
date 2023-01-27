@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Fix missing document type",
     
     'summary': "",
   
@@ -15,7 +15,7 @@
     'website': "http://www.stesi.eu",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ["l10n_it_fatturapaout"],
     
     # always loaded
     'data': [],
